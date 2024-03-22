@@ -6,10 +6,9 @@
 # Features
 
 -Browse (after login only and if not login then come to login page)
-   -Header
-   -Main Movie
-       -Background movie player
-       -Name,description,play now ,moreInfo
-       -Movie Suggestion
-            -rows of movies
-            
+-Header
+-Main Movie
+-Background movie player
+-Name,description,play now ,moreInfo
+-Movie Suggestion
+-rows of movies
